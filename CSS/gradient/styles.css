@@ -1,0 +1,23 @@
+.box1{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-image: linear-gradient(white,blue);
+    background-image:linear-gradient(red,green,blue,yellow,pink,magenta,white,orange);
+    background-image: linear-gradient(to right,white,blue);
+    background-image: linear-gradient(to left,white,blue);
+    background-image: linear-gradient(to bottom left,orange,blue);
+    background-image: linear-gradient(70deg, pink,blue);
+    background-image: linear-gradient(to bottom right,rgba(255,0,0,0.5), rgba(0,0,255,1));
+    background-image: linear-gradient(orange,white,green);
+}
+
+.box2{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    background-image: radial-gradient(orange,blue,red);
+    background-image: radial-gradient(orange 15%,blue 25%,red 60%);
+    background-image: radial-gradient(orange 25%,white 35%,green 30%);
+}

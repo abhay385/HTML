@@ -1,0 +1,32 @@
+.box{
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    
+#p1{
+    margin: 0px;
+    color: black;
+}
+#p2{
+    position: relative;
+    top: -35px;
+    left: 265px;
+    color: blue;
+}
+#p3{
+    position: relative;
+    left: 130px;
+    top: 70px;
+    color: blueviolet;
+}
+#p4{
+    position: relative;
+    top: 182px;
+    color: brown;
+}
+#p5{
+    position: relative;
+   left: 265px;
+    top: 148px;
+    color: orangered;
+}
